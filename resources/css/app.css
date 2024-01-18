@@ -1,0 +1,20 @@
+img.img-fluid {
+    max-width: 400px;
+}
+svg.w-5.h-5 {
+    width: 30px;
+}
+main nav a {
+    text-decoration: none;
+}
+.flex.justify-between.flex-1.sm\:hidden {
+    display: none;
+}
+.admin .form-group {
+    margin: 10px 0px;
+}
+.tags, .categories{padding: 0px;}
+.tags a, .categories a{text-decoration: none;}
+.img-full{
+    max-width: 100%;
+}
